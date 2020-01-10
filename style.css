@@ -1,12 +1,12 @@
 body {
-    margin: auto;
+    margin: 0 auto;
     padding: 0;
-    background: rgb(0, 84, 84);
+    background: rgb(84, 84, 84);
     font-family: sans-serif;
 }
 
 button {
-    margin: auto;
+    margin: 20px;
 }
 
 
@@ -56,10 +56,10 @@ button {
 }
 
 .column {
-    margin:auto;
+    margin: 10px;
     width: 300px;
     min-height: 500px;
-    border-radius: 20%;
+    border-radius: 1%;
     background-color: #fff;
     display: flex;
     flex-wrap: wrap;
@@ -83,7 +83,7 @@ button {
     font-size: 15px;
     height: 25px;
     width: 25px;
-    margin:auto;
+    margin: 3px;
 
 }
 
@@ -102,7 +102,7 @@ button {
     height: 35px;
     width: 35px;
     padding: 0;
-    margin-left: auto;
+    margin-left: 20%;
     text-decoration: none;
     cursor: pointer;
 }
@@ -135,7 +135,7 @@ button {
 
 .column-card-list li {
     min-height: 20px;
-    margin: auto;
+    margin: 5px;
     text-align: left;
     list-style-type: none;
     font-weight: bold;
