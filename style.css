@@ -6,7 +6,7 @@ body {
 }
 
 button {
-    margin: 20px;
+    margin: auto;
 }
 
 
@@ -70,7 +70,7 @@ button {
 .column-title {
     width: 50%;
     font-size: 30px;
-    margin-bottom: 0;
+    margin-bottom: auto;
     word-wrap: break-word;
 }
 
