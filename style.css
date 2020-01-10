@@ -59,7 +59,7 @@ button {
     margin:10px;
     width: 300px;
     min-height: 500px;
-    border-radius: 1%;
+    border-radius: 20%;
     background-color: #fff;
     display: flex;
     flex-wrap: wrap;
