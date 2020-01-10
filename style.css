@@ -96,7 +96,7 @@ button {
 .add-card {
     background: #bfc4c7;
     border: outset;
-    border-radius: 100%;
+    border-radius: 15%;
     color: #fff;
     font-size: 30px;
     height: 35px;
