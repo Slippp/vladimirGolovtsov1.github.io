@@ -59,7 +59,7 @@ button {
     margin: 10px;
     width: 300px;
     min-height: 500px;
-    border-radius: 10%;
+    border-radius: 5%;
     background-color: #fff;
     display: flex;
     flex-wrap: wrap;
@@ -75,7 +75,7 @@ button {
 }
 
 .btn-delete {
-    background: #bfc4c7;
+    background: rgb(100,0,0);
     opacity: 0.6;
     border: none;
     border-radius: 5%;
