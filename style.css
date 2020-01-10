@@ -20,7 +20,7 @@ button {
 
 .header h1 {
     display: inline;
-    margin: 20px;
+    margin: auto;
     color: #bfc4c7;
 }
 
@@ -83,7 +83,7 @@ button {
     font-size: 15px;
     height: 25px;
     width: 25px;
-    margin: 3px;
+    margin:auto;
 
 }
 
@@ -102,7 +102,7 @@ button {
     height: 35px;
     width: 35px;
     padding: 0;
-    margin-left: 20%;
+    margin-left: auto;
     text-decoration: none;
     cursor: pointer;
 }
@@ -135,7 +135,7 @@ button {
 
 .column-card-list li {
     min-height: 20px;
-    margin: 5px;
+    margin: auto;
     text-align: left;
     list-style-type: none;
     font-weight: bold;
