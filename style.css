@@ -96,7 +96,7 @@ button {
 .add-card {
     background: #bfc4c7;
     border: outset;
-    border-radius: 15%;
+    border-radius: 5%;
     color: #fff;
     font-size: 30px;
     height: 35px;
@@ -108,7 +108,7 @@ button {
 }
 
 .add-card:hover {
-    background: #424547;
+    background: #4547;
 }
 
 .card {
