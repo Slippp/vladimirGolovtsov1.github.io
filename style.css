@@ -77,8 +77,8 @@ button {
 .btn-delete {
     background: rgb(100,200,40);
     opacity: 0.6;
-    border: none;
-    border-radius: 5%;
+    border: outset;
+    border-radius: 100%;
     color: #fff;
     font-size: 15px;
     height: 25px;
