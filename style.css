@@ -31,13 +31,13 @@ button {
 
 .create-column {
     background: #bfc4c7;
-    border: none;
+    border: outset;
     border-radius: 100%;
     color: #fff;
     font-size: 40px;
     height: 45px;
     width: 45px;
-    padding: 0;
+    padding: auto;
     text-decoration: none;
 }
 
