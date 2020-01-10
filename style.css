@@ -34,7 +34,7 @@ button {
     border: outset;
     border-radius: 100%;
     color: #fff;
-    font-size: 20px;
+    font-size: 40px;
     height: 45px;
     width: 45px;
     padding: 0;
@@ -69,7 +69,7 @@ button {
 
 .column-title {
     width: 50%;
-    font-size: 10px;
+    font-size: auto;
     margin-bottom: 0;
     word-wrap: break-word;
 }
