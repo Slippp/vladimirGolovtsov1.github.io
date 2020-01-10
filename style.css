@@ -32,7 +32,7 @@ button {
 .create-column {
     background: #bfc4c7;
     border: none;
-    border-radius: 25%;
+    border-radius: 100%;
     color: #fff;
     font-size: 40px;
     height: 45px;
