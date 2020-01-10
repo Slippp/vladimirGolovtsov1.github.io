@@ -102,7 +102,7 @@ button {
     height: 35px;
     width: 35px;
     padding: 0;
-    margin-left: 20%;
+    margin-left: auto ;
     text-decoration: none;
     cursor: pointer;
 }
